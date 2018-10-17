@@ -1,5 +1,6 @@
 # samz-iot
 
+<img src="https://raw.githubusercontent.com/oshanz/samz-iot/master/thumb.png">
 
 * install jupyter
 https://jupyter.readthedocs.io/en/latest/install.html
